@@ -1,0 +1,191 @@
+﻿2014-04-13 19:13:55,164 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2014-04-13 19:13:55,189 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 19ms)
+2014-04-13 19:13:55,200 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-13 19:13:55,488 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 287ms)
+2014-04-13 19:13:55,536 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-13 19:13:55,546 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 9ms)
+2014-04-13 19:13:55,546 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-04-13 19:13:55,556 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 9ms)
+2014-04-13 19:13:55,570 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-13 19:13:55,579 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 9ms)
+2014-04-13 19:13:55,580 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-13 19:13:55,590 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 29 (took 9ms)
+2014-04-13 19:13:55,596 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-13 19:13:55,605 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 9ms)
+2014-04-13 19:13:55,605 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-13 19:13:55,614 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 8ms)
+2014-04-13 19:13:56,056 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-13 19:13:56,068 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 12ms)
+2014-04-13 19:13:56,096 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-13 19:13:56,106 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 9ms)
+2014-04-13 19:13:56,111 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2014-04-13 19:13:56,122 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 11ms)
+2014-04-13 19:13:56,127 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2014-04-13 19:13:56,383 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2014-04-13 19:13:56,730 [13] INFO  umbraco.content - [Thread 12] Loading content from disk cache...
+2014-04-13 19:13:56,814 [13] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-13 19:13:56,824 [13] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 9ms)
+2014-04-13 19:13:57,249 [13] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-04-13 19:13:57,290 [13] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 41ms)
+2014-04-13 19:14:08,730 [13] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2014-02-12 19:14:08
+2014-04-13 19:14:08,734 [13] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 8] Application shutdown. Reason: BrowsersDirChangeOrDirectoryRename
+2014-04-13 19:14:13,687 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Determining hash of code files on disk
+2014-04-13 19:14:13,697 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Hash determined (took 7ms)
+2014-04-13 19:14:13,701 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-13 19:14:13,712 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 9ms)
+2014-04-13 19:14:13,768 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-13 19:14:13,768 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-04-13 19:14:13,768 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-04-13 19:14:13,769 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 0ms)
+2014-04-13 19:14:13,779 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-13 19:14:13,780 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 1ms)
+2014-04-13 19:14:13,781 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-13 19:14:13,783 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 29 (took 2ms)
+2014-04-13 19:14:13,786 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-13 19:14:13,786 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-04-13 19:14:13,787 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-13 19:14:13,787 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2014-04-13 19:14:14,210 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-13 19:14:14,211 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-04-13 19:14:14,238 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-13 19:14:14,238 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-04-13 19:14:14,245 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.ITree
+2014-04-13 19:14:14,246 [13] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-04-13 19:14:14,253 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Initializing Examine and binding to business logic events
+2014-04-13 19:14:14,398 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Adding examine event handlers for index providers: 3
+2014-04-13 19:14:35,862 [13] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-04-13 19:14:35,863 [13] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 0ms)
+2014-04-13 19:15:27,278 [13] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-13 19:15:27,279 [13] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 1ms)
+2014-04-13 19:17:42,625 [13] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-04-13 19:17:42,628 [13] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 19 (took 2ms)
+2014-04-13 19:17:43,027 [13] INFO  Umbraco.Web.Security.WebSecurity - [Thread 28] User Id: 0 logged in
+2014-04-13 19:17:43,262 [13] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-13 19:17:43,262 [13] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-04-13 19:17:43,286 [13] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of umbraco.interfaces.ITree
+2014-04-13 19:17:43,287 [13] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 0ms)
+2014-04-13 19:19:16,514 [13] INFO  umbraco.content - [Thread 17] Loading content from disk cache...
+2014-04-13 19:19:23,203 [13] WARN  Umbraco.Core.Models.Member - [Thread 37] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:19:23,324 [13] WARN  Umbraco.Core.Models.Member - [Thread 37] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:19:23,393 [13] WARN  Umbraco.Core.Models.Member - [Thread 37] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:19:48,460 [13] WARN  Umbraco.Core.Models.Member - [Thread 36] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:21:10,426 [13] WARN  Umbraco.Core.Models.Member - [Thread 36] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:21:10,595 [13] WARN  Umbraco.Core.Models.Member - [Thread 36] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:42:22,974 [13] INFO  umbraco.BusinessLogic.Log - [Thread 92] Log scrubbed.  Removed all items older than 2014-02-12 19:42:22
+2014-04-13 19:42:22,999 [13] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 92] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2014-04-13 19:42:41,123 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Determining hash of code files on disk
+2014-04-13 19:42:41,131 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Hash determined (took 5ms)
+2014-04-13 19:42:41,138 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-13 19:42:41,303 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 163ms)
+2014-04-13 19:42:41,346 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-13 19:42:41,355 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 8ms)
+2014-04-13 19:42:41,355 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-04-13 19:42:41,365 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 9ms)
+2014-04-13 19:42:41,374 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-13 19:42:41,383 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 9ms)
+2014-04-13 19:42:41,383 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-13 19:42:41,393 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 29 (took 9ms)
+2014-04-13 19:42:41,396 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-13 19:42:41,404 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 8ms)
+2014-04-13 19:42:41,405 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-13 19:42:41,414 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 8ms)
+2014-04-13 19:42:41,788 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-13 19:42:41,802 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 13ms)
+2014-04-13 19:42:41,836 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-13 19:42:41,846 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 10ms)
+2014-04-13 19:42:41,852 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.interfaces.ITree
+2014-04-13 19:42:41,864 [120] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 11ms)
+2014-04-13 19:42:41,869 [120] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 118] Initializing Examine and binding to business logic events
+2014-04-13 19:42:41,995 [120] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 118] Adding examine event handlers for index providers: 3
+2014-04-13 19:42:42,435 [120] INFO  Umbraco.Core.PluginManager - [Thread 89] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-13 19:42:42,444 [120] INFO  Umbraco.Core.PluginManager - [Thread 89] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 9ms)
+2014-04-13 19:42:42,674 [120] INFO  Umbraco.Core.PluginManager - [Thread 89] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-04-13 19:42:42,686 [120] INFO  Umbraco.Core.PluginManager - [Thread 89] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 12ms)
+2014-04-13 19:42:42,927 [120] INFO  Umbraco.Web.Security.WebSecurity - [Thread 89] User Id: 0 logged in
+2014-04-13 19:42:43,235 [120] INFO  umbraco.BusinessLogic.Log - [Thread 96] Log scrubbed.  Removed all items older than 2014-02-12 19:42:43
+2014-04-13 19:42:43,237 [120] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 96] Application shutdown. Reason: BuildManagerChange
+2014-04-13 19:42:44,066 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Determining hash of code files on disk
+2014-04-13 19:42:44,081 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Hash determined (took 11ms)
+2014-04-13 19:42:44,086 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-13 19:42:44,099 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 12ms)
+2014-04-13 19:42:44,175 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-13 19:42:44,176 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-04-13 19:42:44,176 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-04-13 19:42:44,177 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 1ms)
+2014-04-13 19:42:44,190 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-13 19:42:44,191 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 1ms)
+2014-04-13 19:42:44,192 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-13 19:42:44,195 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 29 (took 3ms)
+2014-04-13 19:42:44,198 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-13 19:42:44,199 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-04-13 19:42:44,200 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-13 19:42:44,200 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2014-04-13 19:42:44,660 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-13 19:42:44,661 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-04-13 19:42:44,690 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-13 19:42:44,691 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-04-13 19:42:44,699 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.interfaces.ITree
+2014-04-13 19:42:44,699 [45] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-04-13 19:42:44,706 [45] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 118] Initializing Examine and binding to business logic events
+2014-04-13 19:42:44,835 [45] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 118] Adding examine event handlers for index providers: 3
+2014-04-13 19:42:54,421 [45] INFO  Umbraco.Core.PluginManager - [Thread 113] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-13 19:42:54,421 [45] INFO  Umbraco.Core.PluginManager - [Thread 113] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 0ms)
+2014-04-13 19:42:54,680 [45] INFO  umbraco.content - [Thread 113] Loading content from disk cache...
+2014-04-13 19:42:54,738 [45] INFO  Umbraco.Core.PluginManager - [Thread 113] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-04-13 19:42:54,739 [45] INFO  Umbraco.Core.PluginManager - [Thread 113] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 0ms)
+2014-04-13 19:43:07,612 [45] INFO  umbraco.BusinessLogic.Log - [Thread 107] Log scrubbed.  Removed all items older than 2014-02-12 19:43:07
+2014-04-13 19:43:07,619 [45] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 107] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2014-04-13 19:43:09,653 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Determining hash of code files on disk
+2014-04-13 19:43:09,662 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Hash determined (took 6ms)
+2014-04-13 19:43:09,666 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-13 19:43:09,681 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 13ms)
+2014-04-13 19:43:09,720 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-13 19:43:09,721 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-04-13 19:43:09,721 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-04-13 19:43:09,722 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 0ms)
+2014-04-13 19:43:09,727 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-13 19:43:09,729 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 1ms)
+2014-04-13 19:43:09,729 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-13 19:43:09,732 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 29 (took 2ms)
+2014-04-13 19:43:09,734 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-13 19:43:09,735 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-04-13 19:43:09,735 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-13 19:43:09,736 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2014-04-13 19:43:10,136 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-13 19:43:10,136 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-04-13 19:43:10,157 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-13 19:43:10,158 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-04-13 19:43:10,164 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Starting resolution types of umbraco.interfaces.ITree
+2014-04-13 19:43:10,164 [103] INFO  Umbraco.Core.PluginManager - [Thread 105] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-04-13 19:43:10,170 [103] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 105] Initializing Examine and binding to business logic events
+2014-04-13 19:43:10,298 [103] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 105] Adding examine event handlers for index providers: 3
+2014-04-13 19:43:12,050 [103] INFO  umbraco.content - [Thread 120] Loading content from disk cache...
+2014-04-13 19:43:12,061 [103] INFO  Umbraco.Core.PluginManager - [Thread 120] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-13 19:43:12,062 [103] INFO  Umbraco.Core.PluginManager - [Thread 120] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 0ms)
+2014-04-13 19:43:12,211 [103] WARN  Umbraco.Core.Models.Member - [Thread 120] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:33,003 [103] INFO  Umbraco.Core.PluginManager - [Thread 120] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-04-13 19:49:33,005 [103] INFO  Umbraco.Core.PluginManager - [Thread 120] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 1ms)
+2014-04-13 19:49:36,798 [103] INFO  Umbraco.Core.PluginManager - [Thread 120] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-04-13 19:49:36,799 [103] INFO  Umbraco.Core.PluginManager - [Thread 120] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 1ms)
+2014-04-13 19:49:36,824 [103] WARN  Umbraco.Core.Models.Member - [Thread 120] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:36,920 [103] WARN  Umbraco.Core.Models.Member - [Thread 120] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:55,601 [103] WARN  Umbraco.Core.Models.Member - [Thread 106] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:55,654 [103] WARN  Umbraco.Core.Models.Member - [Thread 106] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:55,729 [103] WARN  Umbraco.Core.Models.Member - [Thread 106] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:58,422 [103] WARN  Umbraco.Core.Models.Member - [Thread 107] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:58,533 [103] WARN  Umbraco.Core.Models.Member - [Thread 107] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:49:58,614 [103] WARN  Umbraco.Core.Models.Member - [Thread 107] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:51:08,114 [103] WARN  Umbraco.Core.Models.Member - [Thread 99] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:52:51,165 [103] WARN  Umbraco.Core.Models.Member - [Thread 99] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:52:51,318 [103] WARN  Umbraco.Core.Models.Member - [Thread 99] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:58:07,508 [103] WARN  Umbraco.Core.Models.Member - [Thread 19] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:58:23,719 [103] WARN  Umbraco.Core.Models.Member - [Thread 19] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:58:23,774 [103] WARN  Umbraco.Core.Models.Member - [Thread 19] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:59:12,775 [103] WARN  Umbraco.Core.Models.Member - [Thread 7] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:59:23,316 [103] WARN  Umbraco.Core.Models.Member - [Thread 7] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 19:59:23,398 [103] WARN  Umbraco.Core.Models.Member - [Thread 7] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 20:00:29,329 [103] WARN  Umbraco.Core.Models.Member - [Thread 43] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 20:00:47,965 [103] WARN  Umbraco.Core.Models.Member - [Thread 43] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 20:00:48,036 [103] WARN  Umbraco.Core.Models.Member - [Thread 43] Trying to access the 'PasswordQuestion' property on Umbraco.Core.Models.Member but the umbracoMemberPasswordRetrievalQuestion property does not exist on the member type so a default value is returned. Ensure that you have a property type with alias: umbracoMemberPasswordRetrievalQuestion configured on your member type in order to use the 'PasswordQuestion' property on the model correctly.
+2014-04-13 20:07:27,381 [103] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2014-02-12 20:07:27
+2014-04-13 20:07:27,384 [103] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 31] Application shutdown. Reason: BinDirChangeOrDirectoryRename
