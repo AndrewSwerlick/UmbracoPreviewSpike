@@ -7,3 +7,7 @@ To test it you can use the following accounts
 
 Backoffice: usr:test@test.com pwd:test
 Front office: usr:test2@test.com   pwd:test
+
+Created based on this discussion
+https://groups.google.com/forum/#!topic/umbraco-dev/tbNyEa-tdj4
+
